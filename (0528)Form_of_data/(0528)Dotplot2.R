@@ -1,4 +1,4 @@
 str(Nile)
-plot(Nile, main="Nile°­ÀÇ ¿¬µµº° À¯·® º¯È­", xlab="¿¬µµ", ylab="À¯·®")
-# type="p" ¸¦ »ç¿ëÇÏ¿© »êÁ¡µµ¿¡ Ç¥½ÃµÇ´Â Á¡ÀÇ ÇüÅÂ·Î ³ªÅ¸³¿
-plot(Nile, type="p", main="Nile°­ÀÇ ¿¬µµº° À¯·® º¯È­", xlab="¿¬µµ", ylab="À¯·®")
+plot(Nile, main="Nileê°•ì˜ ì—°ë„ë³„ ìœ ëŸ‰ ë³€í™”", xlab="ì—°ë„", ylab="ìœ ëŸ‰")
+# type="p" : ì ìœ¼ë¡œ í‘œí˜„ë˜ê²Œ
+plot(Nile, type="p", main="Nileê°•ì˜ ì—°ë„ë³„ ìœ ëŸ‰ ë³€í™”", xlab="ì—°ë„", ylab="ìœ ëŸ‰")

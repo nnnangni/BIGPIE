@@ -1,5 +1,5 @@
 str(cars)
-# plot(x,y,main="Á¦¸ñ",xlab="xÃàÁ¦¸ñ", ylab="yÃàÁ¦¸ñ",pch=Ç¥½ÃµÇ´Â Á¡ÇüÅÂ,col="»ö±ò..")
+# plot(x,y,main="ì œëª©,xlab="xì¶•ì œëª©, ylab="yì¶•ì œëª©")
 plot(cars$speed, cars$dist,
-     main="¼Óµµ¿Í Á¦µ¿°Å¸®", xlab="¼Óµµ(mph)", ylab="Á¦µ¿°Å¸®(ft)",
+     main="ì†ë„ì™€ ì œë™ê±°ë¦¬", xlab="ì†ë„(mph)", ylab="ì œë™ê±°ë¦¬ft)",
      pch=1, col="red")
