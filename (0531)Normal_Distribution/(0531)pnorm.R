@@ -1,4 +1,3 @@
-options(digits=3)
 # 평균이 170이고 표준편차가 6인 정규분포
 mu<-170
 sigma<-6
